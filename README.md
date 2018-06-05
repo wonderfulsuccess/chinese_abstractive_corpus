@@ -1,0 +1,2 @@
+# chinese_abstractive_corpus
+教育行业中文抽象式自动文摘语料库
